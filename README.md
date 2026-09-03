@@ -16,12 +16,3 @@ An interactive React Flow laboratory for building, training, and inspecting smal
 5. Use the live app embedded near the end of the dialog.
 
 The first run installs the React dependencies and prepares the Vite app. Later **Run all** executions preserve edits under `my-react-flow-app/src/`.
-
-## Reset the app
-
-To rebuild the default app from scratch, delete both:
-
-- `my-react-flow-app/`
-- `.solveit-react-flow.json`
-
-Then run all cells in `Main.ipynb` again.
